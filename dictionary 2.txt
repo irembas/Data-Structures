@@ -1,0 +1,1 @@
+{"ders", "mona", "bik", "tuval", "puro", "suro", "bar", "aci", "ahl", "soru", "kel", "bela", "geri", "alem", "deli", "zil"}
